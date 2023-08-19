@@ -12,11 +12,15 @@ This Bash script automates the process of creating a new React project with Tail
 
    ```bash
    chmod +x script.sh
-  ```
+   ```
 4. **Run the Script**: Execute the script by providing the desired name for your React project as an argument. For instance, to create a project named "my-awesome-app," run:
-```bash
-  script.sh my-awesome-app
-```
+   ```bash
+   script.sh my-awesome-app
+   ```
+
+
+
+
 **Replace my-awesome-app with your chosen project name.**
 
 ## How to make this script global
